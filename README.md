@@ -1,7 +1,7 @@
 # Interfaces WEB 
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](./images/day_1388.png)
 
 # Sobre o Projeto
 
