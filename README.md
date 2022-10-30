@@ -1,7 +1,7 @@
 # Interfaces WEB 
 
 
-![Capa do Projeto](./images/day_1388.png)
+![Capa do Projeto](./capa-projeto.png)
 
 # Sobre o Projeto
 
