@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Mulish:wght@600&family=Poppins:wght@500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+header{
+    width: 1440px;
+    height: 120px;
+    background-color: #FCFCFF;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    width: 140px;
+    height: 40px;
+    margin: 40px;
+}
+
+nav{
+    margin: 40px 113px 36px 281px;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    padding: 10px 15px;
+    list-style: none;
+}
+
+a{
+    color: #202142;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+}
+
+.icon{
+    width: 54px;
+    height: 54px;
+}
+
+
+.image-profile{
+    width: 38px;
+    height: 38px;
+}
+
+.profile{
+    width: 284px;
+    height: 54px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    align-items: center;
+    margin: 35px 49px 31px 0px ;
+}
+
+.upload{
+    width: 24px;
+    height: 24px;   
+}
+
+.profile button{
+    background-color: #202142;
+    color: #FFFFFF;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 10px;
+
+}
+
+aside{
+    float: left;
+    width: 470px;
+    height: 100vh;
+}
+
+aside h1{
+    font-family: Merriweather, sans-serif;
+    font-size: 32px;
+    margin-top: 90px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+aside div{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    /*margin-top: 170px ;*/
+    float: right;
+    display: flex;
+    flex-direction: column;
+    max-width: 969px;
+    padding: 170px 292px 30px 86px;
+}
+
+
+main h2{
+    font-family: Merriweather, sans-serif;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+.email-address{
+    font-family: Merriweather, sans-serif;
+    font-size: 20px;    
+    margin-bottom: 30px;
+}
+
+.text{
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+}
+.text span{
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.line{
+    background-color: #EFEFFF;
+    height: 1px;
+    width: 597px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.link{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    color: #201CCD;
+    text-decoration: underline;
+}
+
+.text-link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.password-title{
+    font-family: Merriweather, sans-serif;
+    font-size: 20px;    
+    margin-bottom: 30px;
+}
+
+.reseta-senha{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.form2{
+    margin-left: 26px;
+}
+
+form label{
+    font-family: Mulish, sans-serif;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+form input{
+    border: 1px solid #C3C3E4 ;
+    border-radius: 10px;
+    padding: 23px 30px;
+}
+
+.save{
+    margin-top: 30px;
+    width: 183px;
+    height: 54px;
+    background-color: #202142;
+    border: 10px;
+    color: #FFFFFF;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+.delete-account{
+    font-family: Merriweather, sans-serif;
+    font-size: 20px;  
+    margin-bottom: 20px;
+}
+
+.link-red{
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    color: red;
+    text-decoration: underline;
+}
+
+.text-delete-account{
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
